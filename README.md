@@ -117,5 +117,3 @@ Feel free to reach out via GitHub Issues.
 Thanks for stopping by!
 Happy coding! 🚀💻🔐
 
-Let me know if you'd like a similar `README.md` for the Virtual Pet Simulator as well.
-
