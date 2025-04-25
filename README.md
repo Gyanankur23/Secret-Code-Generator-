@@ -34,7 +34,7 @@ Made with ❤️ by [Gyanankur Baruah](https://github.com/Gyanankur23)
 
 
 
-python secret_code_generator.py
+python Secretcode.py
 
 4. Choose to encode or decode your message from the menu.
 
@@ -64,7 +64,7 @@ Non-alphabetic characters like spaces, punctuation, and digits are ignored.
 Secret-Code-Generator-/
 
 │
-├── secret_code_generator.py  # Main program file
+├── Secretcode.py  # Main program file
 ├── README.md                 # You're reading it!
 
 
@@ -80,7 +80,7 @@ git clone https://github.com/Gyanankur23/Secret-Code-Generator-.git
 
 
 
-cd Secret-Code-Generator-
+cd Secret-Code-Generator- python Secretcode.py
 
 
 ⚖️ License
